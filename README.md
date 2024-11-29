@@ -24,4 +24,4 @@ O projeto incluiu os seguintes passos:
 3. Abra o arquivo diretamente no Cisco Packet Tracer para visualizar e interagir com a rede.
 
 ### Topologia da Rede
-![Topologia da Rede](https://github.com/mari-ww/ospf-rip-network-cisco-packet-tracer/blob/main/screenshots/Topologia.png)
+![Topologia da Rede](https://github.com/mari-ww/network-configuration-ospf-rip-cisco/blob/main/screenshots/Topologia.png)
